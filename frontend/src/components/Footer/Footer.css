@@ -1,0 +1,12 @@
+footer {
+  position: fixed;
+  z-index:20;
+  bottom: 0;
+  font-size: 1.2rem;
+  left: 0;
+  padding: .25rem;
+  text-align: center;
+  width: 100%;
+  background-image: linear-gradient(rgb(236, 183, 8),rgb(121, 41, 10));
+  color:#fff;
+}

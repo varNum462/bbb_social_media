@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="ruMBXHxI9TGeORH0cnMH" name="Page-1">
+        <mxGraphModel dx="1758" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Friends list" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="60" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="about me" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="60" width="340" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="profile pic" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="50" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="post history" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="420" width="340" height="280" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

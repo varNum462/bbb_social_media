@@ -1,0 +1,47 @@
+.lg-avatar{
+    width:125px;
+    height:125px;  
+    position:relative;  
+}
+.lg-avatar img{ 
+    clip-path: circle(60px at center);    
+}
+
+.z-i100{
+    z-index: 100;
+    border:.5rem;
+    border-style: dotted;
+}
+
+.visible{
+    position: relative;
+    width:20rem;
+    height:10rem;
+    visibility: visible;
+    background-color: white;
+}
+
+.invisible{
+    visibility: hidden;
+}
+
+.editIcon{
+    font-size:2rem;
+    color:brown;
+    position:absolute;
+    bottom:-5px;
+    right:-5px;
+}
+
+.editInfo{position:relative;}
+.p-info-icon{position:absolute;font-size:1.5rem;left:-.5rem;}
+
+.editInfo .label{
+    font-size:1.2rem;
+    font-weight:bold;
+    text-align:right;
+    width:5rem;
+    margin-right:1rem;
+
+}
+.profileinfo{font-size:1.1rem;padding-top:.15rem;}

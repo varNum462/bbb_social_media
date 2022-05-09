@@ -1,0 +1,51 @@
+<mxfile host="65bd71144e">
+    <diagram id="hp6dUREBfMxecFaSEgoJ" name="Page-1">
+        <mxGraphModel dx="1118" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="NavBar" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="10" width="810" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" style="edgeStyle=none;html=1;" parent="1" source="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="620" y="295" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="620" y="295"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="Photo" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="220" width="410" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="comments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="710" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Photo" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="890" width="410" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="rate my burger" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="220" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="description" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="640" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="like" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="570" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Friends list" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="280" width="150" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Friends" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="100" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="pending friends" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="220" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="profile link" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="690" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

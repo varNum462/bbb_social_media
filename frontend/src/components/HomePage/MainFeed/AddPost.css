@@ -1,0 +1,5 @@
+#addComment{margin:1rem auto;position:relative;}
+#addComment button{font-size:3rem;padding:0;background-color:transparent;color:rgb(212, 165, 10);position:absolute;top:-1.5rem;right:2rem;}
+#addComment button:hover{color:rgb(10, 226, 46);}
+#addComment label{margin-left: 2rem;;}
+textarea, .btn-success{box-shadow: 0px 5px 8px rgb(56, 55, 9);}

@@ -1,0 +1,32 @@
+.friendslist-placement{
+    z-index:0;
+
+}
+
+.absolute{
+    position:static;
+    z-index:1
+}
+
+.fl-avatar img{   
+    width:60px;
+    height:60px;
+}
+
+.friends{font-size: 1.75rem;}
+
+.btn-add{font-size:1.8rem !important; color:rgb(15, 121, 24) !important;padding:0;margin:0 5px}
+.btn-add:hover{color:rgba(51, 255, 0, 0.973) !important;background-color:transparent !important;}
+
+.btn-del{font-size:1.8rem !important; color:rgb(41, 24, 11) !important;padding:0;margin:0 5px}
+.btn-del:hover{color:red !important;background-color:transparent !important;}
+
+.onlineborder{
+    border:1em;
+    border-color: green;
+}
+.offlineborder{
+    border:1em;
+    border-color: gray;   
+    filter:grayscale(100%);
+}

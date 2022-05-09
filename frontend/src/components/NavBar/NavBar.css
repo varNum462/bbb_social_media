@@ -1,0 +1,38 @@
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+li {
+  font-size: 1.25rem;
+}
+
+.navBar {
+  background-image: linear-gradient(rgb(121, 41, 10), rgb(236, 183, 8));
+  box-shadow: 4px 2px 5px gray;
+  color: white;
+  margin-bottom: 1rem;
+  padding: 1rem 1rem;
+  max-height: 5rem;
+}
+
+.navBar button {
+  background: transparent;
+  border: 2px solid white;
+  color: white;
+  padding: 0.4rem 0.5rem;
+}
+
+.navBar button:hover {
+  background: white;
+  color: steelblue;
+  cursor: pointer;
+}
+
+.brand {
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.brand img{max-height:80%;}

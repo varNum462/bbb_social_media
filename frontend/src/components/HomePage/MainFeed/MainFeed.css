@@ -1,0 +1,9 @@
+.postholder,#addComment{max-width:98%;position:relative;}
+img {
+    max-width:98%;
+    height:98%;  
+    position:relative;
+    z-index:0;   /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  }
+.postholder p{font-size:1.5rem;text-align: left;}
+.message{position:relative;}

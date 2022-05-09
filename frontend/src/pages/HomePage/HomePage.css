@@ -1,0 +1,40 @@
+.pos-sticky{
+    position:fixed;
+    right:0rem;
+    width:25rem;
+    /* width:5rem; */
+}
+
+.m-5{
+    margin:50rem;
+}
+.editProfile{ 
+    width: 100%;
+    height: 5rem;
+    position: relative;    
+    text-align:left;
+    padding:.25rem 0;
+    background:#fff;
+    box-shadow:0 5px 8px #444;
+    border-radius:3rem;
+}
+
+.editProfile-text{
+    position: relative;
+    white-space: normal;
+    font-size: 2rem;
+    text-align:left;     
+   }
+
+img.sm-avatar{
+    clip-path: circle(33px at center);
+    position:absolute;
+    left:-20px;
+    top:1px
+}
+
+.fit-content{
+    position:relative;
+    width:fit-content;
+    height:fit-content;
+}
